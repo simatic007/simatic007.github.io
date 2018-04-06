@@ -627,6 +627,8 @@ h3{
     .main-menu .navbar-toggle.collapsed + .navbar-brand img{
         max-height: 80px;
     }
+    .btn__tell {
+        font-size: 14px;}
 
 }
 
